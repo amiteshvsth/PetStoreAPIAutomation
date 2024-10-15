@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><RunSettings>	<!-- To run test in parallel -->	<MSTest>		<TestTimeout>600000</TestTimeout>		<!-- 10 minutes -->		<Parallelize>			<Workers>4</Workers>			<Scope>ClassLevel</Scope>		</Parallelize>	</MSTest></RunSettings>
